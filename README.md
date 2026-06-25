@@ -46,4 +46,3 @@ A passionate Software Engineer based in Can Tho, Vietnam. Currently working as a
 
 * 📧 Email: nguyentritai24042004@gmail.com
 * 📞 Phone: +84 927883740
-* 💼 LinkedIn: [Your-LinkedIn-Profile-Link](https://linkedin.com)
