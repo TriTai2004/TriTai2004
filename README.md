@@ -22,7 +22,7 @@ I build **real-time web applications** and love solving tricky problems with cle
 ### 📈 GitHub Thống Kê
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TriTai2004&show_icons=true&theme=radical&rank_icon=github" alt="TriTai2004's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriTai2004&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriTai2004&layout=compact&theme=radical&hide=scss" alt="Top Langs" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TriTai2004&theme=radical" alt="GitHub Streak" width="97%" />
