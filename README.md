@@ -47,5 +47,4 @@ I build **real-time web applications** and love solving tricky problems with cle
 
 ### 📬 Connect with me
 * 📧 **Email**: nguyentritai24042004@gmail.com
-* 📞 **Phone**: +84 927883740
 * 💻 **GitHub**: [TriTai2004](https://github.com/TriTai2004)
