@@ -1,13 +1,11 @@
 # Hi there, I'm Nguyễn Trí Tài 👋 (Java / Fullstack Developer)
 <p align="left">
   <a href="https://github.com/TriTai2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&width=450&lines=Java+Fresher;Fullstack+Web+Developer;Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&width=450&lines=Java+Developer;Fullstack+Web+Developer;Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
 I build **real-time web applications** and love solving tricky problems with clean code. Currently obsessed with **Spring Boot architecture**, **React state management**, and **WebSocket optimization**. 
-
-**Shipping Linkio** — a Zalo-like real-time chat app with low-latency messaging. Learning what matters in real production systems.
 
 ---
 
@@ -49,4 +47,5 @@ I build **real-time web applications** and love solving tricky problems with cle
 
 ### 📬 Connect with me
 * 📧 **Email**: nguyentritai24042004@gmail.com
+* 📞 **Phone**: +84 927883740
 * 💻 **GitHub**: [TriTai2004](https://github.com/TriTai2004)
